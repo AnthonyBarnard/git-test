@@ -1,5 +1,5 @@
 # git-test
 
-Hello Odin, 
-can't spell Codin',
+Hello Odin! 
+Can't spell Codin',
 without Odin!
